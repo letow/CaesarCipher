@@ -1,0 +1,17 @@
+23-Oct-20 20:21:57 - CaesarCipher - INFO - Program started
+23-Oct-20 20:22:12 - CaesarCipher - INFO - Message entered: 'Zoopark Yota'
+23-Oct-20 20:22:12 - CaesarCipher - INFO - Process of encrypting started
+23-Oct-20 20:22:12 - CaesarCipher - INFO - Message encrypted/decrypted: 'crrsdun brwd'
+23-Oct-20 20:22:47 - CaesarCipher - INFO - Message entered: 'Crrsdun Brwd'
+23-Oct-20 20:22:47 - CaesarCipher - INFO - Process of decrypting started
+23-Oct-20 20:22:47 - CaesarCipher - INFO - Message encrypted/decrypted: 'zoopark yota'
+23-Oct-20 20:23:06 - CaesarCipher - ERROR - Invalid 'language' value: must be integer
+23-Oct-20 20:23:19 - CaesarCipher - ERROR - Invalid 'mode' value: must be integer
+23-Oct-20 20:23:43 - CaesarCipher - ERROR - Invalid 'step' value: must be integer
+23-Oct-20 20:24:59 - CaesarCipher - INFO - Message entered: 'Сообщение'
+23-Oct-20 20:24:59 - CaesarCipher - INFO - Process of encrypting started
+23-Oct-20 20:24:59 - CaesarCipher - INFO - Message encrypted/decrypted: 'цууёюйтнй'
+23-Oct-20 20:25:26 - CaesarCipher - INFO - Message entered: 'цууёюйтнй'
+23-Oct-20 20:25:26 - CaesarCipher - INFO - Process of decrypting started
+23-Oct-20 20:25:26 - CaesarCipher - INFO - Message encrypted/decrypted: 'сообщение'
+23-Oct-20 20:25:32 - CaesarCipher - INFO - Program closed
